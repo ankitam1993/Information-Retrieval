@@ -1,0 +1,22 @@
+hamlet:2.0 3
+two_gentlemen_of_verona:3.3 3
+othello:3.1 3
+henry_vi_part_2:1.0 3
+othello:4.0 3
+othello:4.1 3
+titus_andronicus:2.1 3
+henry_viii:2.0 3
+twelfth_night:3.1 3
+romeo_and_juliet:3.4 3
+twelfth_night:1.1 3
+two_gentlemen_of_verona:3.3 3
+winters_tale:3.2 3
+troilus_and_cressida:0.1 3
+othello:3.0 3
+cymbeline:1.0 3
+titus_andronicus:2.1
+much_ado_about_nothing:4.1 3
+as_you_like_it:1.3 3
+alls_well_that_ends_well:2.4 3
+troilus_and_cressida:3.1 3
+hamlet:4.0 3

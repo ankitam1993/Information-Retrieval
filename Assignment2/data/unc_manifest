@@ -1,0 +1,10 @@
+../results/uncompressed/unc_Inverted_list
+../results/uncompressed/unc_lookup_table.txt
+../results/uncompressed/unc_docNo_sceneId.txt
+../results/uncompressed/unc_sceneId_docNo.txt
+../results/uncompressed/unc_docNo_playId.txt
+../results/uncompressed/unc_docNo_length.txt
+Average length of scene is: 1199.55614973
+Shortest scene is: antony_and_cleopatra:2.8
+longest play is: hamlet of length: 32867
+shortest play is: comedy_of_errors of length: 16415
